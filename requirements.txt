@@ -1,1 +1,7 @@
 streamlit-audiorecorder
+git+https://github.com/huggingface/transformers
+librosa
+ffmpeg
+gradio
+pytube
+torchaudio
